@@ -1,0 +1,44 @@
+Episode 0 results:
+Episode reward: 15.224160012854554
+Episode cost: 90.0
+Episode length: 1000.0
+Episode 1 results:
+Episode reward: 14.692216334588238
+Episode cost: 170.0
+Episode length: 1000.0
+Episode 2 results:
+Episode reward: 0.2117448423215933
+Episode cost: 0.0
+Episode length: 1000.0
+Episode 3 results:
+Episode reward: 21.240314565147855
+Episode cost: 107.0
+Episode length: 1000.0
+Episode 4 results:
+Episode reward: 27.136510180038385
+Episode cost: 255.0
+Episode length: 1000.0
+Episode 5 results:
+Episode reward: 29.0696180153318
+Episode cost: 167.0
+Episode length: 1000.0
+Episode 6 results:
+Episode reward: 0.38255964100062556
+Episode cost: 88.0
+Episode length: 1000.0
+Episode 7 results:
+Episode reward: -0.923072935429218
+Episode cost: 0.0
+Episode length: 1000.0
+Episode 8 results:
+Episode reward: 18.8082496994175
+Episode cost: 82.0
+Episode length: 1000.0
+Episode 9 results:
+Episode reward: 20.00549116658658
+Episode cost: 150.0
+Episode length: 1000.0
+Evaluation results:
+Average episode reward: 14.584779152185792
+Average episode cost: 110.9
+Average episode length: 1000.0
